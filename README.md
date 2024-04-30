@@ -1,4 +1,5 @@
-# Overview
+![](logo.png)
+# SurfNIRS: Surf Your fNIRS Data with Ease!
 Hello SurfIR! Welcome to SurfNIRS, an all-in-one data surfer for NIRS data. This project is currently under active development so please check back for regular updates. Feedback and feature suggestions are welcome!
 
 # Roadmap
