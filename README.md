@@ -2,10 +2,15 @@
 # SurfNIRS: Surf Your fNIRS Data with Ease!
 Hello SurfIR! Welcome to SurfNIRS, an all-in-one data surfer for NIRS data. This project is currently under active development so please check back for regular updates. Feedback and feature suggestions are welcome!
 
-# Roadmap
+## Roadmap
 * SurfNIRS v0.1 was released in April 2024 and contains all **core** features including support for AnalyzIR’s nirs.core.Data format.
 * Leading up to September 2024, all **planned** features will be implemented with support extended to include at minimum: SNIRF, Homer3, and FANBIDS. Documentation and an example dataset will also be added to GitHub during this time.
 * Following September 2024, **proposed** features will be introduced based on interest and these will likely prioritize quality control (e.g., montage colour-coded by SCI).
+
+### Next Up
+I am currently optimizing the performance of the core features (esp. for larger montages). **Planned** features will follow once everything is running a little faster.
+
+### Feature List
 
 | **Category**         | **Feature**                                                            | **Type** | **Notes**                                                                                                            |   |
 |----------------------|------------------------------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------|---|
