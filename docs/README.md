@@ -1,6 +1,6 @@
 ![](logo.png)
 # fNIRS 2024 - SurfNIRS: Surf Your fNIRS Data with Ease!
-Hello SurfIR! Welcome to SurfNIRS, an **all-in-one data surfer for NIRS data**.
+Hello SurfIR! Welcome to SurfNIRS, the **all-in-one data surfer for NIRS data**.
 
 This project is currently under active development. Feedback and feature suggestions are welcome!
 
