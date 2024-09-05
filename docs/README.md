@@ -1,4 +1,7 @@
 ![](logo.png)
+
+**Note: Prior to Sept 9 (virtual blitz), this web resource will be completed and the next version of SurfNIRS will be released.**
+
 # fNIRS 2024 - SurfNIRS: Surf Your fNIRS Data with Ease!
 Hello SurfIR! Welcome to SurfNIRS, the **all-in-one data surfer for fNIRS data**.
 
@@ -10,13 +13,13 @@ Subscribe to the [Mailing List](https://uwo.eu.qualtrics.com/jfe/form/SV_8dgnzv8
 
 [Source Code](https://github.com/Western-SPRINT/SurfNIRS/)
 
-## Video Tour
-TODO - will be embeded here
+## Poster Companion Video
+TODO
 
 <iframe id="video" width="560" height="315" src="https://github.com/user-attachments/assets/bd96080d-af86-474d-a40f-3b445cdfa40d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ## Getting Started
-TODO - will outline the 3 options
+TODO
 
 ## Contact
-TODO - email
+TODO
