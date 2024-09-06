@@ -13,10 +13,9 @@ Subscribe to the [Mailing List](https://uwo.eu.qualtrics.com/jfe/form/SV_8dgnzv8
 
 [Source Code](https://github.com/Western-SPRINT/SurfNIRS/)
 
-## Poster Companion Video
-TODO
+## Demo Video
 
-<iframe id="video" width="560" height="315" src="https://github.com/user-attachments/assets/bd96080d-af86-474d-a40f-3b445cdfa40d" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe id="video" width="560" height="315" src="https://github.com/user-attachments/assets/dd543d11-ceba-441f-b093-908c1eb582f8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ## Getting Started
 TODO
