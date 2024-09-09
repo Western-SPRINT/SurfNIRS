@@ -3,7 +3,7 @@
 **Notice: This page is currently a work-in-progress and will be finalized prior to Sept 12 (fNIRS 2024). I recommend that you wait a few days for v1.0. It will be a significant improvement over the current version.**
 
 # SurfNIRS: Surf Your fNIRS Data with Ease!
-Hello SurfIR! Welcome to SurfNIRS, an **all-in-one data surfer for NIRS data**.
+Hello SurfIR! Welcome to SurfNIRS, an **all-in-one data surfer for fNIRS data**.
 
 This project is currently under active development. Feedback and feature suggestions are welcome!
 
