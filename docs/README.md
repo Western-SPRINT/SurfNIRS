@@ -15,7 +15,11 @@ Subscribe to the [mailing list](https://uwo.eu.qualtrics.com/jfe/form/SV_8dgnzv8
 
 [Source Code](https://github.com/Western-SPRINT/SurfNIRS/)
 
-## Demo Video
+## Blitz Video
+
+<iframe id="video" width="560" height="315" src="https://fnirs.org/wp-content/uploads/2024/fNIRS2024BiennialMeeting/blitz/Su-015-795-Stubbs-Kevin.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+## Demo Video (early build)
 
 <iframe id="video" width="560" height="315" src="https://github.com/user-attachments/assets/dd543d11-ceba-441f-b093-908c1eb582f8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
