@@ -1,8 +1,6 @@
 ![](logo.png)
 
-**Notice 1: A live demo will be presented at the poster for the first hour of the session.**
-
-**Notice 2: Version 1.0 will be released in the next few days. A very early build is already available, but I strongly recommend that you wait for the full release as it will contain expanded compatibility, better performance, and more.**
+**Thank you for your enthusiasm and feedback during the poster session! I will put the finishing touches on v1 over the next few days and release it later this week. If you would like to be notified, then please join the mailing list linked below.**
 
 # SurfNIRS: Surf Your fNIRS Data with Ease!
 Hello SurfIR! Welcome to SurfNIRS, an **all-in-one data surfer for fNIRS data**.
