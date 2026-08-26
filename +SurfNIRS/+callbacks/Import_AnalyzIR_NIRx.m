@@ -1,0 +1,24 @@
+function Import_AnalyzIR_NIRx(app, event)
+    % select files
+    [file,folder] = uigetfile(["*.wl1", "NIRx Raw"], "Import Raw NIRx Data", app.SessionInfo.LastImportFolder,  MultiSelect="off");
+
+    
+    % set latest folder
+    app.SessionInfo.SetLastImportFolder(folder);
+
+    % stop if no files
+    if isnumeric(folder)
+        return
+    end
+
+    % convert to string
+    filepaths = arrayfun(@(f) folder + f, string(file));
+
+    % load
+    count = app.SessionInfo.Data.ImportMulti_AnalyzIR_raw_NIRx(filepaths);
+    if ~count
+        errordlg("No new valid files were found","Import Failed");
+    else
+        app.SessionInfo.Navigation.Refresh;
+    end
+end
