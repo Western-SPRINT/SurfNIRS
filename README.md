@@ -9,6 +9,8 @@ Currently supports:
 4. Raw .nirs
 
 ## Demo
+_Note that v1.0 significantly improved performance/responsiveness relative to this v0.1 demo._
+
 https://github.com/user-attachments/assets/dd543d11-ceba-441f-b093-908c1eb582f8
 
 ## Contact
